@@ -1,0 +1,374 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925719.6943396914,
+          6256310.099604624
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "C",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "D12",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0460",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "C",
+        "QUANTIFICA": "",
+        "ROTATION": 297.5,
+        "CODE_CH1": "495",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925638.4864483146,
+          6256335.559202757
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "T",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "L2T",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0200",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "T",
+        "QUANTIFICA": "",
+        "ROTATION": 334.6,
+        "CODE_CH1": "185",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "83087",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925887.1055050849,
+          6256299.337821898
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "C",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "K1C",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "",
+        "QUANTIFICA": "",
+        "ROTATION": 18.4,
+        "CODE_CH1": "148",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "",
+        "CLASSE": "B",
+        "CODE_ID": "0008",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 72,
+        "Longueur": 470,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925703.7485013094,
+          6256345.531490958
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "C",
+        "NATURE_CHA": "H",
+        "REF_CHAMBR": "OHN",
+        "REF_NOTE": "SPE",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0155",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "C",
+        "QUANTIFICA": "",
+        "ROTATION": 39.2,
+        "CODE_CH1": "392",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925674.3538761844,
+          6256309.489479086
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "C",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "D12",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0460",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "C",
+        "QUANTIFICA": "",
+        "ROTATION": 0.0,
+        "CODE_CH1": "176",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "83087",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925669.3636078525,
+          6256324.114366048
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "C",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "L2C",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0460",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "C",
+        "QUANTIFICA": "",
+        "ROTATION": 335.2,
+        "CODE_CH1": "188",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "83087",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925674.11507643,
+          6256309.038903483
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "T",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "A11",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0320",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "T",
+        "QUANTIFICA": "",
+        "ROTATION": 18.9,
+        "CODE_CH1": "556",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "",
+        "CLASSE": "B",
+        "CODE_ID": "0010",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0002",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 36,
+        "Longueur": 45,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925612.5345114622,
+          6256345.085009405
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "T",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "L2T",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "0200",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "T",
+        "QUANTIFICA": "",
+        "ROTATION": 339.5,
+        "CODE_CH1": "186",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "83087",
+        "CLASSE": "B",
+        "CODE_ID": "0007",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 6,
+        "Longueur": 189,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          925803.929210512,
+          6256311.269094807
+        ]
+      },
+      "properties": {
+        "STATUT": "E",
+        "IMPLANT": "T",
+        "NATURE_CHA": "R",
+        "REF_CHAMBR": "L1T",
+        "REF_NOTE": "",
+        "CODE_COM": "83087",
+        "CODE_VOIE": "",
+        "NUM_VOIE": "",
+        "ID_PROPRIE": 1,
+        "TYPE_TRAPP": "",
+        "QUANTIFICA": "",
+        "ROTATION": 344.4,
+        "CODE_CH1": "147",
+        "CODE_CH2": "83087",
+        "SECURISEE": 0,
+        "CLE_MKT1": "",
+        "CODE_CH1_C": "",
+        "CODE_CH2_P": "83087",
+        "CLASSE": "B",
+        "CODE_ID": "0008",
+        "ZA_NRO": "83NAN",
+        "ZA_ZPM": "83NAN_0005",
+        "ZA_ZPA": "PA_0001",
+        "Type_cable": "D2",
+        "Capacit\u00e9": 72,
+        "Longueur": 470,
+        "ID_RAD": "",
+        "commentair": "PM05-PA01",
+        "orig_ogc_f": 179
+      }
+    }
+  ]
+}
